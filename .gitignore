@@ -1,0 +1,11 @@
+bin/
+Debug/
+obj/
+objd/
+x64/
+x86/
+*.suo
+*.vcxproj.user
+*.sdf
+*.vcxproj.filters
+*.opensdf
